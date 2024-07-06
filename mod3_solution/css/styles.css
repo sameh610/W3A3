@@ -8,6 +8,11 @@
     padding: 0;
 }
 
+
+.heading {
+  text-align: center;
+}
+
 .navbar-toggler {
     float: right;
     position: relative;
